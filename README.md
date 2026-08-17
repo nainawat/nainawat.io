@@ -1,0 +1,1 @@
+First steps towards learning web development. The idea to build a small web page that acts as my portfolio/personal page.
